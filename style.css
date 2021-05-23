@@ -305,6 +305,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 200px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -741,6 +742,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin: auto;
 }
 
 .portfolio-row {
@@ -963,7 +965,7 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: auto;
+        width: 200px;
     }
     .nav-invert .navbar-header {
         float: none;

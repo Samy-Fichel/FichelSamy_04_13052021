@@ -1427,7 +1427,9 @@ figure {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
+    width: 320px;
+    height: 100%;
 }
 
 .carousel-inner>.item>a>img,
@@ -5200,7 +5202,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-brand>img {
-    display: block
+    display: block;
 }
 
 @media (min-width:768px) {
@@ -7682,7 +7684,7 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
+    background-color: #000;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
@@ -7795,7 +7797,9 @@ button.close {
 .center-block {
     display: block;
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
+    width: 105px;
+    height: auto;
 }
 
 .pull-right {
