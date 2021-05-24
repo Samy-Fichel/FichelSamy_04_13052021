@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -727,8 +727,19 @@ h1 {
     color: #333333!important;
 }
 
+.title-citation {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.title-citation-2 {
+    width: 58%;
+    margin-left: 21%;
+}
+
 h4 {
-    color: #333333!important;
+    font-size: 20px;
+    color: black!important;
 }
 
 .icons {
@@ -896,6 +907,19 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
+
+    .title-citation{
+        width: 75%;
+        margin-left: 13%;
+        font-size: 17px;
+    }
+
+    .title-citation-2{
+        width: 95%;
+        margin-left: 1%;
+        font-size: 15px;
+    }
+
     h1,
     h2,
     h3,
