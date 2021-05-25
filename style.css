@@ -727,11 +727,6 @@ h1 {
     color: #333333!important;
 }
 
-.title-citation {
-    width: 50%;
-    margin-left: 25%;
-}
-
 .title-citation-2 {
     width: 58%;
     margin-left: 21%;
@@ -907,13 +902,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-
-    .title-citation{
-        width: 75%;
-        margin-left: 13%;
-        font-size: 17px;
-    }
-
+    
     .title-citation-2{
         width: 95%;
         margin-left: 1%;
