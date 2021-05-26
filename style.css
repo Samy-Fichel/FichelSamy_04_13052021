@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -702,11 +702,13 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 21px;
     line-height: 1.4em;
 }
 
@@ -725,6 +727,11 @@ h3 {
 
 h1 {
     color: #333333!important;
+}
+
+.title-citation-1 {
+    width: 58%;
+    margin-left: 21%;
 }
 
 .title-citation-2 {
@@ -779,16 +786,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #a94415;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffe4d8!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #f78e5d;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -902,7 +909,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    
+
     .title-citation-2{
         width: 95%;
         margin-left: 1%;
@@ -1045,7 +1052,7 @@ h4 {
 
 @media (max-width: 400px) {
     .bloc {
-        padding-left: 0;
+        padding-left: 2px;
         padding-right: 0;
     }
 }
