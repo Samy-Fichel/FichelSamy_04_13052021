@@ -30,7 +30,7 @@
 *Tous ces éléments devront être codés en HTML et CSS.
  Fais également attention à ce que le site soit toujours adapté à toutes les tailles d’écran après tes modifications.
  
-##Livrables
+## Livrables
 
 *Un fichier au format zip contenant : 
 *Le rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations sélectionnées;
