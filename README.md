@@ -27,13 +27,13 @@
   Dans tes différentes recommandations, j’aimerais que tu prennes des mesures pour accélérer la vitesse de chargement, et que tu me démontres que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. 
   Ce rapport devra inclure les comparaisons pour les 10 recommandations.
   
-*Tous ces éléments devront être codés en HTML et CSS.
- Fais également attention à ce que le site soit toujours adapté à toutes les tailles d’écran après tes modifications.
+* Tous ces éléments devront être codés en HTML et CSS.
+  Fais également attention à ce que le site soit toujours adapté à toutes les tailles d’écran après tes modifications.
  
 ## Livrables
 
-*Un fichier au format zip contenant : 
-*Le rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations sélectionnées;
-*Le code source complet du site amélioré ;
-*Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
+* Un fichier au format zip contenant : 
+* Le rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations sélectionnées;
+* Le code source complet du site amélioré ;
+* Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
  
